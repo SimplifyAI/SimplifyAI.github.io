@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Science Fact vs. Science Fiction: Artificial General Intelligence
+title: AI: Science Fact vs. Science Fiction
 ---
 
 When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS from Iron Man,  and Marvin from the hitchhikers guide to the galaxy. Today, But how close are these sci-fi interpretations to reality?
