@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI&#58; Science Fact vs Science Fiction
-bg-img: "../images/scifiai.png"
+bg-img: '../images/scifiai.png'
 ---
 
 When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
@@ -17,15 +17,15 @@ The major point of disconnect between AIs in sci-fi and real AI is the size of t
   <img src="../images/scifivscurr.png" style="width: 1200px;"/>
 </p>
 
-For example, one of the current cutting-edge AIs is Google’s AlphaZero, a game-playing AI which has mastered the games of Chess, Shogi (a Japanese variant of Chess), and Go (a Chinese strategy board game similar to Chess). While this AI can easily beat human world champions of each aforementioned board game, anyone could easily best the AI in a simpler game, such as Checkers or Snakes and Ladders. This game-playing AI cannot even play every game, let alone perform tasks in a larger problem space, such as speaking a human language, or understanding what sadness means.  
+For example, one of the current cutting-edge AIs is Google’s AlphaZero, a game-playing AI which has mastered the games of Chess, Shogi (a Japanese variant of Chess), and Go (a Chinese strategy board game similar to Chess). While this AI can easily beat human world champions of each aforementioned board game, anyone could easily best the AI in a simpler game, such as Checkers or Snakes and Ladders. This game-playing AI cannot even play every game, let alone perform tasks in a larger problem space, such as speaking a human language, or understanding what human emotion.  
 
 <p align="center">
  <img src="../images/a0.jpg"
  style="width: 1200px;"/>
- <figcaption> <em> AlphaZero is world-renowned for it's mastery of the games Chess, Shogi, and Go. However, it is unable to perform any other, seemingly simpler tasks*. </em> </figcaption>
+ <figcaption> <em> AlphaZero is world-renowned for it's mastery of the games Chess, Shogi, and Go. However, it is unable to perform any other, seemingly simpler tasks. </em> </figcaption>
 </p>
 
-This is not, however, to say that certain AIs cannot speak or understand visual cues to human emotion. They just must be built for that specific purpose, and will not be able to, for example, play Chess. For instance, Softbanks’s humanoid robot named Pepper is a greeting and information bot which is able to recognize human emotions based on facial expression. While Pepper is able to understand the complexities of human facial expression, he can not recognize any other visual characteristics, such as race, gender, or height; Let alone beat a novice at Chess.
+This is not, however, to say that certain AIs cannot speak or understand cues to human emotion. They just must be built for that specific purpose, and will not be able to, for example, play Chess. For instance, Softbanks’s humanoid robot named Pepper is a greeting and information bot which is able to recognize human emotions based on facial expression. While Pepper is able to understand the complexities of human facial expression, he can not recognize any other visual characteristics, such as race, gender, or height; let alone beat even a novice at Chess.
 
 <p align="center">
  <img src="../images/pep.jpg"

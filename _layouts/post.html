@@ -3,10 +3,17 @@ layout: default
 ---
 
 <article class="post">
-  <div class="header-bg">
-    <h1>{{ page.title }}</h1>
-    <div style="--bg-img: url({{page.bg-img}})"</div>
-  </div>
+  <h1>{{ page.title }}</h1>
+  <style>
+    div {
+      background-image: url({{page.bg-img}});
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+      background-color: rgba(255, 255, 255, 0.35)
+    }
+  </style>
 
   <div class="entry">
     {{ content }}
