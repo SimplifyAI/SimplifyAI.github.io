@@ -1,17 +1,11 @@
 ---
 layout: post
 title: AI&#58; Science Fact vs Science Fiction
-output:
-  body {
-    background-image: url('../images/scifiai.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
-  }
-
-  div {
-    background-color: rgba(255, 255, 255, 0.35)   /* 35% opaque white */;
-    padding: 0.25em;
-  }
+background-image: url('../images/scifiai.png');
+background-repeat: no-repeat;
+background-size: 100%;
+background-color: rgba(255, 255, 255, 0.35);
+padding: 0.25em;
 ---
 
 When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
