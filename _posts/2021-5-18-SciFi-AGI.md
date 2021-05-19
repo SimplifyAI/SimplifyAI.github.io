@@ -1,9 +1,14 @@
 ---
 layout: post
-title: AI - Science Fact vs Science Fiction
+title: AI&#58; Science Fact vs Science Fiction
 ---
 
-When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS (from Iron Man), and C-3PO (from the Star Wars). But how close are these sci-fi interpretations to reality?
+When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
+
+<p align="center">
+ <img src="{{ site.baseurl }}/images/scifiai.png" style="width: 1200px;"/>
+ {{ site.baseurl }}
+</p>
 
 The major point of disconnect between AIs in sci-fi and real AI is the size of their intelligence application space. What this means is that the AI in movies tend to have what is called *general intelligence*, the ability to act intelligently in a wide range of situations, just as humans do.  Conversely, real-life AI has what is called *narrow intelligence*, meaning that the AI can act intelligently in a single type of situation, but not in all types of situations.
 
@@ -17,11 +22,18 @@ For example, one of the current cutting-edge AIs is Google’s AlphaZero, a game
 <p align="center">
  <img src="{{ site.baseurl }}/images/a0.jpg"
  style="width: 1200px;"/>
- <figcaption> AlphaZero is world-renowned for it's mastery of the games Chess, Shogi, and Go. However, it is unable to perform any other, seemingly simpler tasks. </figcaption>
+ <figcaption> *AlphaZero is world-renowned for it's mastery of the games Chess, Shogi, and Go. However, it is unable to perform any other, seemingly simpler tasks*. </figcaption>
  {{ site.baseurl }}
 </p>
 
-This is not, however, to say that certain AIs cannot speak or understand visual cues to human emotion. They just must be built for that specific purpose, and will not be able to, for example, play Chess. For instance, Softbanks’s humanoid robot named Pepper is a greeting and information bot which is able to recognize human emotions based on facial expression. While it is able to understand the complexities of human facial expression, Pepper can not recognize any other visual characteristics, such as race, gender, height, etc.; Let alone beat a novice at Chess.
+This is not, however, to say that certain AIs cannot speak or understand visual cues to human emotion. They just must be built for that specific purpose, and will not be able to, for example, play Chess. For instance, Softbanks’s humanoid robot named Pepper is a greeting and information bot which is able to recognize human emotions based on facial expression. While Pepper is able to understand the complexities of human facial expression, he can not recognize any other visual characteristics, such as race, gender, or height; Let alone beat a novice at Chess.
+
+<p align="center">
+ <img src="{{ site.baseurl }}/images/pep.jpg"
+ style="width: 1200px;"/>
+ <figcaption> *Pepper is able to recognize faces and basic human emotions, and can engage in conversation with humans through his touch screen. He can not, however, do anything else, such as tell how tall you are, or play a game with you.*. </figcaption>
+ {{ site.baseurl }}
+</p>
 
  A final examples is Google’s DeepMind breast cancer detector, which outperforms human radiologists at detecting breast cancer, but would not be able to detect the presence of any other type of cancer or illness. These examples demonstrate the current state of AI – we are able to build machines that are very intelligent with respect to a single problem space, but we cannot build a machine with even toddler-level generalized intelligence.
 
