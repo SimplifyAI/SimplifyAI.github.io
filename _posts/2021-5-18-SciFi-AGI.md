@@ -1,7 +1,6 @@
 ---
 layout: post
 title: AI&#58; Science Fact vs Science Fiction
-bg-img: '../images/scifiai.png'
 ---
 
 When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
