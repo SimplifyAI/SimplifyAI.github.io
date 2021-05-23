@@ -5,7 +5,7 @@ title: AI&#58; Science Fact vs Science Fiction
 
 When people think about Artificial Intelligence, they tend to refer to science fiction – a few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
 
-The major point of disconnect between AI in sci-fi and real AI is the size of their intelligence application space. What this means is that the AI in movies tend to have what is called *general intelligence*, the ability to act intelligently in a wide range of situations, just as humans do.  Conversely, real-life AI has what is called *narrow intelligence*, meaning that the AI can act intelligently in a single type of situation, but not in all types of situations.
+The major point of disconnect between AI in sci-fi and real AI is the size of their intelligence application space. What this means is that the AI in movies tends to have what is called *general intelligence*, the ability to act intelligently in a wide range of situations, just as humans do.  Conversely, real-life AI has what is called *narrow intelligence*, meaning that the AI can act intelligently in a single type of situation, but not in all types of situations.
 
  <p align="center">
   <img src="../images/scifivscurr.png" style="width: 1200px;"/>
