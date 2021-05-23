@@ -3,15 +3,15 @@ layout: post
 title: AI&#58; Science Fact vs Science Fiction
 ---
 
-When people think about Artificial Intelligence, they tend to refer to science fiction – A few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
+When people think about Artificial Intelligence, they tend to refer to science fiction – a few examples include the Terminator, JARVIS (Iron Man), and C-3PO (Star Wars). But how close are these sci-fi interpretations to reality?
 
-The major point of disconnect between AIs in sci-fi and real AI is the size of their intelligence application space. What this means is that the AI in movies tend to have what is called *general intelligence*, the ability to act intelligently in a wide range of situations, just as humans do.  Conversely, real-life AI has what is called *narrow intelligence*, meaning that the AI can act intelligently in a single type of situation, but not in all types of situations.
+The major point of disconnect between AI in sci-fi and real AI is the size of their intelligence application space. What this means is that the AI in movies tend to have what is called *general intelligence*, the ability to act intelligently in a wide range of situations, just as humans do.  Conversely, real-life AI has what is called *narrow intelligence*, meaning that the AI can act intelligently in a single type of situation, but not in all types of situations.
 
  <p align="center">
   <img src="../images/scifivscurr.png" style="width: 1200px;"/>
 </p>
 
-For example, one of the current cutting-edge AIs is Google’s AlphaZero, a game-playing AI which has mastered the games of Chess, Shogi (a Japanese variant of Chess), and Go (a Chinese strategy board game similar to Chess). While this AI can easily beat human world champions of each aforementioned board game, anyone could easily best the AI in a simpler game, such as Checkers or Snakes and Ladders. This game-playing AI cannot even play every game, let alone perform tasks in a larger problem space, such as speaking a human language, or understanding what human emotion.  
+For example, one of the current cutting-edge AIs is Google’s AlphaZero, a game-playing AI which has mastered the games of Chess, Shogi (a Japanese variant of Chess), and Go (a Chinese strategy board game similar to Chess). While this AI can easily beat human world champions of each aforementioned board game, anyone could easily best the AI in a simpler game, such as Checkers or Snakes and Ladders. This game-playing AI cannot even play every game, let alone perform tasks in a larger problem space, such as speaking a human language, or understanding human emotion.  
 
 <p align="center">
  <img src="../images/a0.jpg"
