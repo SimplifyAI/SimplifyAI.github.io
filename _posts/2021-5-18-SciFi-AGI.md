@@ -19,12 +19,12 @@ For example, one of the current cutting-edge AIs is Google’s AlphaZero, a game
  <figcaption> <em> AlphaZero is world-renowned for it's mastery of the games Chess, Shogi, and Go. However, it is unable to perform any other, seemingly simpler tasks. </em> </figcaption>
 </p>
 
-This is not, however, to say that certain AIs cannot speak or understand cues to human emotion. They just must be built for that specific purpose, and will not be able to, for example, play Chess. For instance, Softbanks’s humanoid robot named Pepper is a greeting and information bot which is able to recognize human emotions based on facial expression. While Pepper is able to understand the complexities of human facial expression, he can not recognize any other visual characteristics, such as race, gender, or height; let alone beat even a novice at Chess.
+This is not, however, to say that certain AIs cannot speak or understand cues to human emotion. They just must be built for that specific purpose, and will not be able to, for example, play Chess. For instance, Softbanks’s humanoid robot named Pepper is a greeting and information bot which is able to recognize human emotions based on facial expression. While Pepper is able to understand the complexities of human facial expression, he cannot recognize any other visual characteristics, such as race, gender, or height; let alone beat even a novice at Chess.
 
 <p align="center">
  <img src="../images/pep.jpg"
  style="width: 1200px;"/>
- <figcaption> <em> Pepper is able to recognize faces and basic human emotions, and can engage in conversation with humans through his touch screen. He can not, however, do anything else, such as tell how tall you are, or play a game with you. </em> </figcaption>
+ <figcaption> <em> Pepper is able to recognize faces and basic human emotions, and can engage in conversation with humans through his touch screen. He cannot, however, do anything else, such as tell how tall you are, or play a game with you. </em> </figcaption>
 </p>
 
  A final examples is Google’s DeepMind breast cancer detector, which outperforms human radiologists at detecting breast cancer, but would not be able to detect the presence of any other type of cancer or illness. These examples demonstrate the current state of AI – we are able to build machines that are very intelligent with respect to a single problem space, but we cannot build a machine with even toddler-level generalized intelligence.
