@@ -1,8 +1,21 @@
 <!DOCTYPE html>
 <html>
   <head>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HTTJXN3YLQ"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-HTTJXN3YLQ');
+    </script>
+
+    <!-- Ad CLient - Google AdSense -->
     <script data-ad-client="ca-pub-1939568484551598" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
+    <!-- Basic Page Layout - Default -->
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
